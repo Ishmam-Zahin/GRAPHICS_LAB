@@ -1,0 +1,9 @@
+Computer Graphics Lab List: 💻: 
+    Lab List:
+    1. 2D Translation
+    2. 2D Rotation
+    3. 2D Scaling
+    4. Bresenham Line Drawing
+    5. DDA algorithm
+    6. Cohen-Sutherland Line Cliping Algorithm
+    7. Deterministic self similar fractal curve (Koch curve)
