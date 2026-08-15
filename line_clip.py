@@ -101,7 +101,6 @@ class Line:
                 t.pencolor('green')
                 self.draw(t)
             else:
-                print('fucked')
                 t.pencolor('red')
                 self.draw(t)
         else:
